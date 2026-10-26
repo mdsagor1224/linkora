@@ -1,0 +1,1 @@
+<template><main class="px-4 py-24 text-center"><h1 class="text-3xl font-bold text-ink">Page not found</h1><router-link to="/" class="mt-4 inline-block text-teal underline">Back to home</router-link></main></template>
